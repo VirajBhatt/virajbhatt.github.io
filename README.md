@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Senior AI/ML Developer @ Benchmark Gensuite (_March 2022 - Present_)**
-- Generated $70,000 in additional revenue by developing and enhancing key features of AI solution, [PSI AI Advisor](https://benchmarkgensuite.com/?s=PSI)
+- Generated $70,000 in additional revenue by developing and enhancing key features of AI solution, [PSI AI Advisor](https://benchmarkgensuite.com/app/psi-advisor-safety-software/)
 - Built ML-based solution that enable clients to provide accurate information on forms without requiring subject expertise, resulting in $15,000 of recurring revenueannually
 - Created an NLP-based sentiment analyzer that helps customer service teams prioritize urgent issues and respond promptly to agitated customer feedback and queries
 
